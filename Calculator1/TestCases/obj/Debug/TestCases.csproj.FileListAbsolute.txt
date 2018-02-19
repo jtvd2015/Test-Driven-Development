@@ -1,0 +1,9 @@
+C:\repos\Test-Driven_Development\Calculator1\TestCases\obj\Debug\TestCases.csproj.CoreCompileInputs.cache
+C:\repos\Test-Driven_Development\Calculator1\TestCases\bin\Debug\TestCases.exe.config
+C:\repos\Test-Driven_Development\Calculator1\TestCases\bin\Debug\TestCases.exe
+C:\repos\Test-Driven_Development\Calculator1\TestCases\bin\Debug\TestCases.pdb
+C:\repos\Test-Driven_Development\Calculator1\TestCases\bin\Debug\Calculator1.dll
+C:\repos\Test-Driven_Development\Calculator1\TestCases\bin\Debug\Calculator1.pdb
+C:\repos\Test-Driven_Development\Calculator1\TestCases\obj\Debug\TestCases.csprojResolveAssemblyReference.cache
+C:\repos\Test-Driven_Development\Calculator1\TestCases\obj\Debug\TestCases.exe
+C:\repos\Test-Driven_Development\Calculator1\TestCases\obj\Debug\TestCases.pdb
