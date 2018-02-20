@@ -1,0 +1,6 @@
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\obj\Debug\RPNCalculator.csproj.CoreCompileInputs.cache
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\bin\Debug\RPN.dll
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\bin\Debug\RPN.pdb
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\obj\Debug\RPN.dll
+C:\repos\Test-Driven-Development\RPN_Solution\RPN\obj\Debug\RPN.pdb

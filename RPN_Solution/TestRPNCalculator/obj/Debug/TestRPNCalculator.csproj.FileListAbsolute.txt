@@ -1,0 +1,9 @@
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\obj\Debug\TestRPNCalculator.csproj.CoreCompileInputs.cache
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\bin\Debug\TestRPNCalculator.exe.config
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\bin\Debug\TestRPNCalculator.exe
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\bin\Debug\TestRPNCalculator.pdb
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\bin\Debug\RPN.dll
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\bin\Debug\RPN.pdb
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\obj\Debug\TestRPNCalculator.csprojResolveAssemblyReference.cache
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\obj\Debug\TestRPNCalculator.exe
+C:\repos\Test-Driven-Development\RPN_Solution\TestRPNCalculator\obj\Debug\TestRPNCalculator.pdb
