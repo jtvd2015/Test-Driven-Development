@@ -1,0 +1,15 @@
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\MathLibraryTests.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\MathLibraryTests.pdb
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\MathLibrary.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\MathLibrary.pdb
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.csprojResolveAssemblyReference.cache
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.csproj.CoreCompileInputs.cache
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibraryTests\obj\Debug\MathLibraryTests.pdb

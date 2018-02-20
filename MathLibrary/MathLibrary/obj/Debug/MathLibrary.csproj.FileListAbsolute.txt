@@ -1,0 +1,6 @@
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\bin\Debug\MathLibrary.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\obj\Debug\MathLibrary.dll
+C:\repos\Test-Driven-Development\MathLibrary\MathLibrary\obj\Debug\MathLibrary.pdb
